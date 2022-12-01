@@ -1,0 +1,1 @@
+/Users/daniil.dyachenko/git/advent-of-code-2022/kotin-version/build/classes/kotlin/main/MainKt.class:/Users/daniil.dyachenko/git/advent-of-code-2022/kotin-version/build/classes/kotlin/main/inputs/FirstInputKt.class:/Users/daniil.dyachenko/git/advent-of-code-2022/kotin-version/build/classes/kotlin/main/puzzles/FirstKt.class
