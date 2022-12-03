@@ -1,4 +1,4 @@
-package puzzles
+package puzzles.day01
 
 internal object `1TaskDataProvider` {
     const val firstElfCalories = 48559

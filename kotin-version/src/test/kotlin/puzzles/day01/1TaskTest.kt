@@ -1,7 +1,9 @@
-package puzzles
+package puzzles.day01
 
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
+import puzzles.separateInputToElves
+import puzzles.solve1Task
 
 internal class `1TaskTest` {
 
